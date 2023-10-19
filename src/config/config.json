@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
+    "username": "<YOUR_DB_USERNAME>",
+    "password": "<YOUR_DB_PASSWORD>",
+    "database": "<YOUR_DB_NAME>",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
+    "username": "<YOUR_DB_USERNAME>",
+    "password": "<YOUR_DB_PASSWORD>",
+    "database": "<YOUR_DB_NAME>",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
+    "username": "<YOUR_DB_USERNAME>",
+    "password": "<YOUR_DB_PASSWORD>",
+    "database": "<YOUR_DB_NAME>",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
